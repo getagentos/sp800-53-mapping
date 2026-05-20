@@ -1,0 +1,36 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Build artifacts (future-proofing for site generators)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
+dist/
+build/
+public/
+.cache/
+
+# Python tooling (future-proofing for any helper scripts)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "NIST SP 800-53 Rev 5 Control Mapping for AI Agent Decision Evidence"
+message: "If you cite this mapping in standards documents, comment submissions, or academic work, please use the metadata below."
+type: dataset
+authors:
+  - given-names: Swapan
+    family-names: Shridhar
+    affiliation: AgentOS
+    email: swapan@getagentos.ai
+repository-code: "https://github.com/getagentos/sp800-53-mapping"
+url: "https://getagentos.ai"
+abstract: >
+  A control-by-control mapping between NIST Special Publication 800-53
+  Revision 5 and a cryptographic decision evidence artifact format for
+  AI agent systems. Primary mapping covers the AU (Audit and Accountability)
+  family, including AU-10 Non-repudiation enhancements (1), (2), (3),
+  and (5); AU-9 Hardware Write-Once Media and Cryptographic Protection;
+  and AU-12 Audit Record Generation enhancements. Secondary mappings
+  cover AC, IA, SR, and SI control families.
+keywords:
+  - NIST
+  - SP 800-53
+  - AI agents
+  - agentic AI
+  - non-repudiation
+  - audit evidence
+  - cryptographic attestation
+  - chain of custody
+  - FIPS 186-5
+  - RFC 3161
+  - SCITT
+  - RATS
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-05-20
