@@ -1,6 +1,6 @@
 # OWASP Agentic AI Top 10 -- Decision Evidence Mapping
 
-**AgentOS** · May 23, 2026
+**AgentOS** · May 31, 2026
 
 AgentOS produces a cryptographically signed, tamper-proof artifact for every consequential AI agent decision -- verifiable by any examiner without vendor cooperation.
 
