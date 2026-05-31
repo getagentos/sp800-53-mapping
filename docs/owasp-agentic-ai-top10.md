@@ -71,4 +71,4 @@ Contact: `swapan@getagentos.ai` · [getagentos.ai](https://getagentos.ai)
 
 ---
 
-*Published May 23, 2026. Apache License, Version 2.0.*
+*Published May 31, 2026. Apache License, Version 2.0.*
