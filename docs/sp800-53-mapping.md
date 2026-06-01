@@ -1,4 +1,3 @@
-[sp800-53-mapping.md](https://github.com/user-attachments/files/28468189/sp800-53-mapping.md)
 # [NIST SP 800-53 Rev 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) Control Mapping for AI Agent Decision Evidence
 
 | Metadata | |
