@@ -1,4 +1,3 @@
-[owasp-agentic-ai-top10 (1).md](https://github.com/user-attachments/files/28468236/owasp-agentic-ai-top10.1.md)
 # OWASP Agentic AI Top 10 -- Decision Evidence Mapping
 
 **AgentOS** · May 31, 2026
