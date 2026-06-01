@@ -1,3 +1,4 @@
+[sp800-53-mapping.md](https://github.com/user-attachments/files/28468189/sp800-53-mapping.md)
 # [NIST SP 800-53 Rev 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) Control Mapping for AI Agent Decision Evidence
 
 | Metadata | |
@@ -97,7 +98,7 @@ The NCCoE AI Agent Identity and Authorization demonstration project covers four 
 
 On the Cyber AI Profile (NIST IR 8596), the mapping serves as implementation guidance for the Protect and Respond functions of the CSF 2.0 Core. Protect via pre-execution binding. Respond via the audit trail at incident time.
 
-Financial services institutions can apply the mapping under SR 11-7 (model risk management), FFIEC Authentication Guidance, OCC 12 CFR Part 30 Appendix D (Heightened Standards), NYDFS Part 500, the NY RAISE Act (effective January 2027), Regulation B, and Regulation Z. Adverse-action disclosure under Reg B and Reg Z benefits from the same evidence set. Healthcare, defence, and other regulated sectors have adjacent applicability.
+Financial services institutions can apply the mapping under OCC Bulletin 2026-13 (Model Risk Management: Revised Guidance, April 17, 2026), FFIEC Authentication Guidance, OCC 12 CFR Part 30 Appendix D (Heightened Standards), NYDFS Part 500, the NY RAISE Act (effective January 2027), Regulation B, and Regulation Z. Adverse-action disclosure under Reg B and Reg Z benefits from the same evidence set. Note: SR 11-7 (Federal Reserve, April 2011) and OCC Bulletin 2011-12 were rescinded by OCC Bulletin 2026-13 on April 17, 2026. References to SR 11-7 in other documents refer to the prior model risk framework now superseded by that bulletin. Healthcare, defence, and other regulated sectors have adjacent applicability.
 
 Security teams doing vendor risk review can use the AU-10 row of Section 3 as a control-mapping reference. Hand it to the team and the review acceleration is concrete.
 
