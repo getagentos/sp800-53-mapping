@@ -6,6 +6,8 @@ AgentOS produces a cryptographically signed, tamper-proof artifact for every con
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20486369.svg)](https://doi.org/10.5281/zenodo.20486369)
+
 ## Evidence Type Definitions
 
 | Term | Meaning |
