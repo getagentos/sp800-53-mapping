@@ -2,6 +2,13 @@
 
 A mapping between [NIST SP 800-53 Rev 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final) and a cryptographic decision-evidence artifact format for AI agents. Offered as a stakeholder contribution to the NIST AI Agent Standards Initiative, the [COSAiS](https://csrc.nist.gov/projects/cosais) overlay project, and the [NCCoE AI Agent Identity and Authorization](https://www.nccoe.nist.gov/projects/software-and-ai-agent-identity-and-authorization) demonstration.
 
+## Published Records
+
+| Mapping | Zenodo DOI | Date |
+|---|---|---|
+| OWASP Agentic AI Top 10 — Decision Evidence Mapping | [10.5281/zenodo.20486369](https://doi.org/10.5281/zenodo.20486369) | May 23, 2026 |
+| NIST SP 800-53 Rev 5 Control Mapping | [10.5281/zenodo.20486631](https://doi.org/10.5281/zenodo.20486631) | May 20, 2026 |
+
 ## Why this exists
 
 I read most of the substantive submissions to [NIST docket NIST-2025-0035](https://www.regulations.gov/docket/NIST-2025-0035) when the comment period closed. The banking coalition (BPI, BITS, ABA), Anthropic, the Foundation for Defense of Democracies, the OpenID Foundation, IEEE-USA. The non-repudiation gap kept showing up. The banking coalition asked NIST for guidance on agents that are "attributable, auditable, and stoppable" and proposed practice guides. Anthropic framed the problem as a non-compromised-agent threat model. FDD called out parallel control gaps across AC, IA, AU, and SR.
