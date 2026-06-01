@@ -7,6 +7,7 @@
 | Contact | swapan@getagentos.ai |
 | License | Apache License, Version 2.0 |
 | Repository | https://github.com/getagentos/sp800-53-mapping |
+| DOI | [10.5281/zenodo.20486631](https://doi.org/10.5281/zenodo.20486631) |
 | Status | Stakeholder contribution. Not endorsed by NIST. |
 
 ## Abstract
